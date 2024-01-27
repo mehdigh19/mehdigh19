@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @mehdigh19
-- 👀 I’m interested in code and edit video
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on programer
+- 👋 Hi, I’m Mehdi
+- 👀 I’m interested in website design and edit video
+- 🌱 I’m currently learning PHP
 - 📫 How to reach me with heart
 
 <!---
